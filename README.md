@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdurrehmann
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ful stack web development
+- 👀 I’m a web developer
+- 🌱 I have mastered front-end development and am on inermediate level on backend development.
 
 
 <!---
